@@ -1,0 +1,1 @@
+example of two fetch HOF's.  One adds a timeout and other adds a minimum wait.
